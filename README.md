@@ -45,10 +45,6 @@ Ensure you have Python 3.x installed, along with the following dependencies:
 ```
 pip install tensorflow keras numpy pandas matplotlib scikit-learn tensorflow-hub
 ```
-Alternatively, you can install the dependencies via the requirements.txt file:
-```
-pip install -r requirements.txt
-```
 
 ## Dataset
 The dataset is stored in password_Data.sqlite and contains two key columns:
